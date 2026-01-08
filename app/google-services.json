@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "887278902914",
+    "project_id": "hutangpiutang2-3d9a8",
+    "storage_bucket": "hutangpiutang2-3d9a8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887278902914:android:aebe071b7003e4febdde9b",
+        "android_client_info": {
+          "package_name": "com.example.hutangpiutang2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyuFtYNGxzg-WN-Hcc7YUGgBW8wLkb7iY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
