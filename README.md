@@ -3,7 +3,6 @@ Nama: Wanda (2304411579),
 Kelas: 5I RPL 1
 (Tema aplikasi + aplikasi rujukan Play Store = Hutang Piutang + Catatan Hutang Piutang) (Link: https://play.google.com/store/apps/details?id=com.yippy.debt)
 ![image alt](https://github.com/gizkairda/hutangpiutang2/blob/4c01c2b4589e1c4dfe71647706a2908d2a76f23b/WhatsApp%20Image%202026-01-10%20at%2013.41.33.jpeg)
-![image alt](https://github.com/gizkairda/hutangpiutang2/blob/7d8129272e32837c0f5fb480384e3704ad8f5247/WhatsApp%20Image%202026-01-10%20at%2014.32.15.jpeg)
 ![image alt](https://github.com/gizkairda/hutangpiutang2/blob/7d8129272e32837c0f5fb480384e3704ad8f5247/WhatsApp%20Image%202026-01-10%20at%2013.41.34.jpeg)
 ![image alt](https://github.com/gizkairda/hutangpiutang2/blob/b020b601b5db088089b86c58464e6d7b588569bb/WhatsApp%20Image%202026-01-10%20at%2013.41.34%20(3).jpeg)
 ![image alt](https://github.com/gizkairda/hutangpiutang2/commit/5e089e1e737102e236a187ba5c30b5097383dfc7)
@@ -12,12 +11,12 @@ Kelas: 5I RPL 1
 ![image alt](https://github.com/gizkairda/hutangpiutang2/blob/7d8129272e32837c0f5fb480384e3704ad8f5247/WhatsApp%20Image%202026-01-10%20at%2013.41.35.jpeg)
 ![image alt](https://github.com/gizkairda/hutangpiutang2/blob/7a3522d9413b97b9751a15838a6e92a2ccb925a3/WhatsApp%20Image%202026-01-10%20at%2014.59.42.jpeg)
 ![image alt](https://github.com/gizkairda/hutangpiutang2/blob/7a3522d9413b97b9751a15838a6e92a2ccb925a3/WhatsApp%20Image%202026-01-10%20at%2014.59.42%20(1).jpeg)
-————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+—————————————————————————————————————————————————————————————
 Cara Menjalankan Aplikasih:
 1. Pastikan Project Sudah Terbuka dengan Benar
-•	Buka Android Studio
-•	Pilih Open → arahkan ke folder project aplikasi 
-•	Tunggu sampai proses Gradle Sync selesai
+•Buka Android Studio
+•Pilih Open → arahkan ke folder project aplikasi 
+•Tunggu sampai proses Gradle Sync selesai
  biasanya di bagian bawah ada tulisan “Gradle build finished”
  Kalau masih loading atau ada error merah, jangan langsung di-run.
 
@@ -65,7 +64,7 @@ B. Menjalankan Aplikasi Menggunakan HP Android Asli (Disarankan)
 •	Tunggu proses build selesai
  Jika sukses  aplikasi langsung ter-install & terbuka di HP.
 Selanjutnya Menjalankan Aplikasi Di Hp
-_____________________________________________________________
+___________________________________________________________________________________________________________________
 Cara Menjalankan Aplikasi Hutang Piutang di HP Android
 1.	Nyalakan HP Android
 2.	Masuk ke Menu Aplikasi
@@ -133,7 +132,7 @@ Pada setiap data transaksi tersedia beberapa tombol:
 Jika kita ingin keluar:
 1.	Tekan tombol Logout di pojok kanan atas
 2.	Aplikasi akan kembali ke halaman login
-
+_____________________________________________________________________________________________________________________________
 8. cara singkat:
 cara singkat, alur penggunaan aplikasi Hutang Piutang:
 1.	Buka aplikasi
