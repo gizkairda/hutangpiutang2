@@ -67,10 +67,9 @@ B. Menjalankan Aplikasi Menggunakan HP Android Asli (Disarankan)
 Selanjutnya Menjalankan Aplikasi Di Hp
 _____________________________________________________________
 Cara Menjalankan Aplikasi Hutang Piutang di HP Android
-1. Membuka Aplikasi
 1.	Nyalakan HP Android
 2.	Masuk ke Menu Aplikasi
-3.	Cari dan tap ikon aplikasi Hutang Piutang
+3.	Cari dan tap ikon aplikasi Hutang Piutang yang sudah dipindahkan tadi
 (ikon buku catatan dengan simbol uang seperti pada gambar diatas)
 Setelah di-tap, aplikasi akan menampilkan halaman awal (Splash Screen) lalu masuk ke halaman login.
 2. Halaman Login
@@ -108,7 +107,7 @@ Pada halaman utama terdapat 3 tombol filter:
 → Menampilkan data yang belum lunas
 3.	Lunas
 → Menampilkan data yang sudah lunas
-Pengguna dapat menekan salah satu tombol untuk mempermudah pencarian data.
+kita dapat menekan salah satu tombol untuk mempermudah pencarian data.
 5. Menambah Data Hutang / Piutang
 Untuk menambahkan data baru:
 1.	Tekan tombol Tambah (+) di pojok kanan bawah
@@ -131,7 +130,7 @@ Pada setiap data transaksi tersedia beberapa tombol:
 🗑️ Hapus
 •	Menghapus data hutang/piutang dari aplikasi
 7. Logout dari Aplikasi
-Jika pengguna ingin keluar:
+Jika kita ingin keluar:
 1.	Tekan tombol Logout di pojok kanan atas
 2.	Aplikasi akan kembali ke halaman login
 8. cara singkat:
