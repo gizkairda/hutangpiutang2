@@ -16,13 +16,13 @@ GIEZKA IRDA SALSABILA (2304411758)
 Cara Menjalankan Aplikasih:
 1. Pastikan Project Sudah Terbuka dengan Benar
 •	Buka Android Studio
-•	Pilih Open → arahkan ke folder project aplikasi kamu
+•	Pilih Open → arahkan ke folder project aplikasi 
 •	Tunggu sampai proses Gradle Sync selesai
  biasanya di bagian bawah ada tulisan “Gradle build finished”
  Kalau masih loading atau ada error merah, jangan langsung di-run.
 
 2. Pilih Cara Menjalankan Aplikasi
-Ada 2 cara utama menjalankan aplikasi di Android Studio:
+Ada 2 cara utama menjalankan aplikasi:
 1.	Pakai Emulator (HP virtual)
 2.	Pakai HP Android asli
 A. Menjalankan Aplikasi Menggunakan Emulator
@@ -60,7 +60,7 @@ B. Menjalankan Aplikasi Menggunakan HP Android Asli (Disarankan)
 •	Di HP klik Allow / Izinkan USB Debugging
 4)	Jalankan Aplikasi
 •	Di Android Studio, lihat bagian Device
-•	Pilih nama HP kamu
+•	Pilih nama HP mu
 •	Klik tombol ▶ Run
 •	Tunggu proses build selesai
  Jika sukses  aplikasi langsung ter-install & terbuka di HP.
