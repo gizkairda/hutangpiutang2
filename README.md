@@ -1,7 +1,6 @@
 Nama: Wanda (2304411579)
       Giska irda Salsabila (2304411758)
 Kelas: 5I RPL 1
-
 (Tema aplikasi + aplikasi rujukan Play Store = Hutang Piutang + Catatan Hutang Piutang) (Link: https://play.google.com/store/apps/details?id=com.yippy.debt)
 ![image alt](https://github.com/gizkairda/hutangpiutang2/blob/4c01c2b4589e1c4dfe71647706a2908d2a76f23b/WhatsApp%20Image%202026-01-10%20at%2013.41.33.jpeg)
 ![image alt](https://github.com/gizkairda/hutangpiutang2/blob/7d8129272e32837c0f5fb480384e3704ad8f5247/WhatsApp%20Image%202026-01-10%20at%2014.32.15.jpeg)
