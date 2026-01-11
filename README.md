@@ -12,3 +12,55 @@ GIEZKA IRDA SALSABILA (2304411758)
 ![image alt](https://github.com/gizkairda/hutangpiutang2/blob/7d8129272e32837c0f5fb480384e3704ad8f5247/WhatsApp%20Image%202026-01-10%20at%2013.41.35.jpeg)
 ![image alt](https://github.com/gizkairda/hutangpiutang2/blob/7a3522d9413b97b9751a15838a6e92a2ccb925a3/WhatsApp%20Image%202026-01-10%20at%2014.59.42.jpeg)
 ![image alt](https://github.com/gizkairda/hutangpiutang2/blob/7a3522d9413b97b9751a15838a6e92a2ccb925a3/WhatsApp%20Image%202026-01-10%20at%2014.59.42%20(1).jpeg)
+————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+Cara Menjalankan Aplikasih:
+1. Pastikan Project Sudah Terbuka dengan Benar
+•	Buka Android Studio
+•	Pilih Open → arahkan ke folder project aplikasi kamu
+•	Tunggu sampai proses Gradle Sync selesai
+ biasanya di bagian bawah ada tulisan “Gradle build finished”
+ Kalau masih loading atau ada error merah, jangan langsung di-run.
+
+2. Pilih Cara Menjalankan Aplikasi
+Ada 2 cara utama menjalankan aplikasi di Android Studio:
+1.	Pakai Emulator (HP virtual)
+2.	Pakai HP Android asli
+A. Menjalankan Aplikasi Menggunakan Emulator
+1)	Buat / Aktifkan Emulator
+1.	Klik Device Manager (ikon HP di kanan atas)
+2.	Klik Create Device
+3.	Pilih tipe HP (misalnya Pixel 4)
+4.	Klik Next
+5.	Pilih versi Android (misalnya Android 13)
+6.	Klik Download (kalau belum ada)
+7.	Klik Finish
+Setelah itu:
+•	Klik tombol ▶ (Play) pada emulator
+•	Tunggu sampai emulator menyala sempurna
+2)	Jalankan Aplikasi
+1.	Pastikan emulator sudah aktif
+2.	Klik tombol ▶ Run (warna hijau)
+3.	Pilih emulator yang aktif
+4.	Klik OK
+Tunggu beberapa detik
+Jika berhasil aplikasi akan muncul otomatis di emulator.
+B. Menjalankan Aplikasi Menggunakan HP Android Asli (Disarankan)
+1)	Aktifkan Developer Option di HP
+•	Masuk Pengaturan
+•	Pilih Tentang Ponsel
+•	Tap Build Number sebanyak 7 kali
+•	Muncul tulisan “Anda sekarang developer”
+2)	Aktifkan USB Debugging
+•	Masuk Pengaturan
+•	Pilih Opsi Pengembang
+•	Aktifkan USB Debugging
+3)	Hubungkan HP ke Laptop
+•	Gunakan kabel USB
+•	Pilih mode File Transfer
+•	Di HP klik Allow / Izinkan USB Debugging
+4)	Jalankan Aplikasi
+•	Di Android Studio, lihat bagian Device
+•	Pilih nama HP kamu
+•	Klik tombol ▶ Run
+•	Tunggu proses build selesai
+ Jika sukses  aplikasi langsung ter-install & terbuka di HP.
