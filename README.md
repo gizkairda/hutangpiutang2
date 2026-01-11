@@ -64,3 +64,85 @@ B. Menjalankan Aplikasi Menggunakan HP Android Asli (Disarankan)
 •	Klik tombol ▶ Run
 •	Tunggu proses build selesai
  Jika sukses  aplikasi langsung ter-install & terbuka di HP.
+Selanjutnya Menjalankan Aplikasi Di Hp
+_____________________________________________________________
+Cara Menjalankan Aplikasi Hutang Piutang di HP Android
+1. Membuka Aplikasi
+1.	Nyalakan HP Android
+2.	Masuk ke Menu Aplikasi
+3.	Cari dan tap ikon aplikasi Hutang Piutang
+(ikon buku catatan dengan simbol uang seperti pada gambar diatas)
+Setelah di-tap, aplikasi akan menampilkan halaman awal (Splash Screen) lalu masuk ke halaman login.
+2. Halaman Login
+Pada halaman login, tersedia beberapa fitur:
+A. Login Menggunakan Email & Password
+•	Masukkan Email
+•	Masukkan Password
+•	Tekan tombol Login
+Jika data benar, pengguna akan diarahkan ke halaman utama aplikasi.
+B. Register (Pendaftaran Akun Baru)
+•	Tekan tombol Register
+•	Isi data pendaftaran
+•	Simpan akun
+•	Kembali ke halaman login
+•	Login menggunakan akun yang sudah dibuat
+C. Login Menggunakan Google
+1.	Tekan tombol Login dengan Google
+2.	Pilih akun Google
+3.	Tunggu proses verifikasi
+3. Halaman Utama Aplikasi
+Setelah login berhasil, aplikasi menampilkan dashboard hutang piutang, yang berisi:
+•	Total Hutang
+•	Total Piutang
+•	Saldo
+•	Tombol Logout
+•	Daftar transaksi hutang dan piutang
+Saldo akan otomatis dihitung:
+•	Hutang → nilai negatif (merah)
+•	Piutang → nilai positif (hijau)
+4. Filter Data Hutang & Piutang
+Pada halaman utama terdapat 3 tombol filter:
+1.	Semua
+→ Menampilkan semua data hutang dan piutang
+2.	Aktif
+→ Menampilkan data yang belum lunas
+3.	Lunas
+→ Menampilkan data yang sudah lunas
+Pengguna dapat menekan salah satu tombol untuk mempermudah pencarian data.
+5. Menambah Data Hutang / Piutang
+Untuk menambahkan data baru:
+1.	Tekan tombol Tambah (+) di pojok kanan bawah
+2.	Muncul form Tambah Hutang/Piutang
+3.	Isi data berikut:
+o	Judul
+o	Deskripsi
+o	Jumlah
+o	Nama Orang
+o	Nomor Telepon
+o	Pilih jenis: Hutang atau Piutang
+4.	Tekan tombol Simpan
+Data akan otomatis tersimpan, akan muncul top up(Data berhasil disimpan), dan muncul di halaman utama.
+6. Mengelola Data Hutang / Piutang
+Pada setiap data transaksi tersedia beberapa tombol:
+✏️ Edit
+•	Untuk mengubah data hutang/piutang
+🔄 Tandai Aktif / Lunas
+•	Mengubah status hutang/piutang menjadi Lunas atau Aktif
+🗑️ Hapus
+•	Menghapus data hutang/piutang dari aplikasi
+7. Logout dari Aplikasi
+Jika pengguna ingin keluar:
+1.	Tekan tombol Logout di pojok kanan atas
+2.	Aplikasi akan kembali ke halaman login
+8. cara singkat:
+cara singkat, alur penggunaan aplikasi Hutang Piutang:
+1.	Buka aplikasi
+2.	Login / Register / Login Google
+3.	Melihat data hutang dan piutang
+4.	Menambah, mengedit, atau menghapus data
+5.	Logout jika selesai
+
+
+
+
+
