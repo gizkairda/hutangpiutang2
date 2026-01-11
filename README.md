@@ -1,4 +1,4 @@
-Nama: Wanda (2304411579)
+Nama: Wanda (2304411579),
       Giska irda Salsabila (2304411758)
 Kelas: 5I RPL 1
 (Tema aplikasi + aplikasi rujukan Play Store = Hutang Piutang + Catatan Hutang Piutang) (Link: https://play.google.com/store/apps/details?id=com.yippy.debt)
@@ -124,9 +124,9 @@ Data akan otomatis tersimpan, akan muncul top up(Data berhasil disimpan), dan mu
 6. Mengelola Data Hutang / Piutang
 Pada setiap data transaksi tersedia beberapa tombol:
 ✏️ Edit
-•	Untuk mengubah data hutang/piutang
+•Untuk mengubah data hutang/piutang
 🔄 Tandai Aktif / Lunas
-•	Mengubah status hutang/piutang menjadi Lunas atau Aktif
+•Mengubah status hutang/piutang menjadi Lunas atau Aktif
 🗑️ Hapus
 •	Menghapus data hutang/piutang dari aplikasi
 7. Logout dari Aplikasi
